@@ -1,2 +1,5 @@
 # Ability System Prototype
-Made in January 2020
+## Minimum Project Requirements
+- Create a generalized ability system
+- Queue chosen ability and execute them in order
+- Same code to run all abilities 
